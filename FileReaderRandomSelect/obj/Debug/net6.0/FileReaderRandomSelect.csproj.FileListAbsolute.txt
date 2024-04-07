@@ -1,0 +1,15 @@
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.csproj.AssemblyReference.cache
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.AssemblyInfoInputs.cache
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.AssemblyInfo.cs
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.csproj.CoreCompileInputs.cache
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\bin\Debug\net6.0\FileReaderRandomSelect.exe
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\bin\Debug\net6.0\FileReaderRandomSelect.deps.json
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\bin\Debug\net6.0\FileReaderRandomSelect.runtimeconfig.json
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\bin\Debug\net6.0\FileReaderRandomSelect.dll
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\bin\Debug\net6.0\FileReaderRandomSelect.pdb
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.dll
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\refint\FileReaderRandomSelect.dll
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.pdb
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\FileReaderRandomSelect.genruntimeconfig.cache
+C:\Users\menzi.khuzwayo\source\repos\FileReaderRandomSelect\FileReaderRandomSelect\obj\Debug\net6.0\ref\FileReaderRandomSelect.dll

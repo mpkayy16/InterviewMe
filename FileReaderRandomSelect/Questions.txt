@@ -1,0 +1,224 @@
+﻿ceo in capitec?
+can you briefly introduce yourself and your professional background?
+what attracted you to apply for this position at capitec bank ltd?
+can you describe your experience with full-stack development?
+how do you stay updated with the latest trends and technologies in software development?
+can you describe a challenging project you've worked on and how you overcame the challenges?
+how do you handle tight deadlines and pressure at work?
+can you describe a time when you had to handle a conflict within your team? how did you resolve it?
+how do you approach problem-solving when you encounter a difficult bug or issue?
+can you describe a time when you had to learn a new technology or language for a project? how did you approach it?
+how do you ensure the quality of your code?
+can you explain your experience with c# programming language?
+how would you approach designing a new software system from scratch?
+can you explain your understanding of the software development life cycle (sdlc)?
+can you describe your experience with front-end and back-end frameworks and technologies?
+how do you ensure the security of the applications you develop?
+can you explain your experience with database systems and query optimization?
+how do you approach restful api design and integration?
+can you describe your experience with cloud computing platforms and services like aws and azure?
+can you explain your understanding of microservice and event-driven architectures?
+can you explain your experience with responsive design principles and mobile-first development?
+how do you handle browser compatibility issues and performance optimization?
+can you describe your experience with front-end build tools and package managers?
+can you explain your understanding of advanced algorithms and data structures?
+how do you approach testing in your development process?
+can you describe a time when you had to use your analytical skills to solve a complex problem?
+how do you ensure attention to detail in your work?
+can you describe a time when your communication skills were crucial in a project?
+how do you handle interpersonal relationships within your team?
+can you describe a time when your problem-solving skills were put to the test?
+how do you handle feedback and criticism about your work?
+can you describe a time when you had to adapt to a significant change at work?
+how do you prioritize your tasks when working on multiple projects?
+can you describe a time when you had to make a difficult decision at work? what was the outcome?
+how do you handle failure or setbacks in your projects?
+if you were given a project with a very tight deadline, how would you ensure its timely and successful completion?
+how would you handle a situation where a team member is not meeting their deadlines or delivering quality work
+if you were asked to implement a feature that you believe would negatively impact the user experience, how would you handle it?
+how would you handle a situation where you and a team member have a disagreement about a technical approach to a problem?
+how do you see yourself contributing to capitec bank ltd's commitment to service in the banking industry?
+how do you feel about working in a cross-functional team dedicated to the full software development lifecycle?
+how would you contribute to creating great client experiences at capitec bank ltd?nce.
+how do you feel about capitec bank ltd's commitment to diversity and employment equity goals?
+how would you handle the responsibility of maintaining a clear criminal and credit record as required by capitec bank ltd?
+how do you see yourself fitting into capitec bank ltd's corporate culture?
+what are your expectations from capitec bank ltd as your potential employer?
+how do you see your career growth at capitec bank ltd?
+how would you handle any potential conflicts of interest that might arise during your employment at capitec bank ltd?
+what questions do you have for us about this position or capitec bank ltd?
+can you explain the software development lifecycle and its importance?
+how do you approach problem-solving when you encounter a bug in your code?
+can you explain the concept of oop and its advantages?
+how do you ensure the security of your code?
+what programming languages are you most comfortable with and why?
+can you explain the concept of restful api design and integration?
+what does it mean when they say restful is stateless
+how do you handle version control in your projects?
+can you describe your experience with cloud computing platforms like aws or azure?
+what is your approach to testing and quality assurance in software development?
+can you describe a time when you made a mistake in your work and how you handled it?
+can you describe a time when you had to explain a complex technical concept to a non-technical person?
+how do you handle unexpected changes or challenges in a project?
+how would you handle a situation where a client is not satisfied with your work?
+if you found a major bug in a product just before it was due to be launched, what would you do?
+how would you handle a situation where you disagree with a decision made by your team leader?
+how do you feel your skills and experience align with our company's mission and values?
+can you describe how you would contribute to our team and projects?
+how do you see yourself growing within our company?
+how do your skills and experience make you a good fit for this role?
+what are your strengths and weaknesses?
+how do you handle data binding in angular?
+can you explain how you manage state in an angular application?
+how do you handle exceptions in c#?
+linq in c#?
+how do you handle memory management in c#?
+can you explain how you would implement authentication and authorization in an angular and c# application?
+how do you ensure code reusability in angular and c#?
+can you describe your experience with unit testing in angular and c#?
+how do you optimize performance in an angular application?
+can you explain the concept of virtual dom and its significance in frontend development?
+what are the differences between inline, block, and inline-block elements in css?
+what is the difference between sql and nosql databases, and when would you use each?
+how do you stay updated with the latest trends and technologies in full stack development?
+what are the major features of angular?
+what are the technologies used in angular?
+what are pipes in angular?
+what is angular cli?
+what is metadata in angular?
+what is typescript?
+what is routing in angular?
+what is the difference between constructor and ngoninit in angular?
+what are the different types of directives in angular?modules in angular are used to organize an application into cohesive blocks of functionality. they can contain components, services, directives, and other modules.
+what is the purpose of ngmodule in angular?
+what are services in angular?
+explain the concept of data binding in angular.
+what is the difference between template-driven forms and reactive forms in angular?
+what are angular forms?
+explain the concept of observables in angular?
+explain the concept of lazy loading in angular?
+how does angular handle error handling and logging?
+what is aot compilation in angular?
+how does angular support server-side rendering (ssr)?
+explain the concept of content projection in angular?
+what are the different lifecycle hooks in angular?
+what are some common performance issues encountered in angular applications and how can they be avoided?
+what are the four pillars of object-oriented programming (oop)?
+explain the difference between value types and reference types in c#.
+what is the purpose of garbage collection in c#?
+describe the use of delegates and events in c#.
+what are the benefits of using generics in c#?
+explain the concept of async/await in c#.
+how can you implement exception handling in c#?
+describe the difference between sealed and readonly keywords in c#.
+what are extension methods in c#?
+what are some common attributes used in c#?
+how can you implement unit testing in c#?
+explain the concept of dependency injection in c#.
+differentiate between asp.net web forms and asp.net mvc.
+explain the role of controllers in asp.net mvc/core.
+describe the model-view-controller (mvc) design pattern.
+explain the functionality of middleware in asp.net core.
+describe the process of deploying an asp.net core application.
+what are the benefits of using dependency injection in asp.net core?
+what are the different access modifiers in c#?
+explain the concept of filters in asp.net core.
+explain the concept of routing in asp.net core.
+what are some common configuration options in asp.net core?
+how can you implement logging in asp.net core?
+what is the difference between .net framework and .net (formerly .net core)?
+explain the purpose of the common language runtime (clr) in .net.
+describe the role of assemblies in .net.
+what are the benefits of using nuget packages in .net development?
+describe the purpose of attributes in .net.
+what are some common features offered by the .net base class library (bcl)?
+explain the concept of reflection in .net.
+what are the different types of action results in asp.net mvc?
+what are the advantages of using .net core over .net framework?
+describe the use of the "using" statement in c#.
+how does model binding work in asp.net mvc?
+discuss the role of media formatters in web api.
+how can you use mock objects in unit testing c# code?
+what are some common design patterns used in .net development?
+explain the purpose of the singleton design pattern.
+describe the factory method design pattern.
+what are the benefits of using the repository pattern?
+explain the adapter design pattern.
+describe the observer pattern (publish-subscribe).
+what are the advantages of using the strategy pattern?
+explain the decorator design pattern.
+explain the difference between abstract factory and factory method patterns.
+discuss the best practices for securing apis developed in .net and .net core.
+what are some best practices for designing and developing well-structured web apis?
+what is token-based authentication and how is it implemented in asp.net core?
+explain the concept of cors (cross-origin resource sharing) and its importance in api security.
+imagine you're tasked with integrating a new third-party library into a large c# codebase. how would you approach this challenge?
+how can you prevent common security vulnerabilities, such as sql injection and xss, in c# applications?
+discuss the different approaches for database access in c# applications.
+discuss the role of stored procedures in database integration with c# applications.
+how can you optimize database access performance in c# applications?
+how can you monitor and optimize the performance of asp.net core applications in production?
+What is linq?
+ASP.NET Web API?
+Parameter Binding in  Web API?
+Content Negotiation in Web API?
+Media-Type Formatter in ASP.NET Web API?
+How Web API Routes HTTP request to the Controller?
+ways to do Web API Versioning?
+What is Exception handling?
+advantages of Web API?
+main return types supported in Web API?
+disadvantage of “Other Return Types” in Web API?
+Advantages and Disadvantages of Using “use strict“?
+exception filters?
+What is Multi-Threading?
+ACID(Atomicity, Consistency, Isolation,and Durability) mean in Database systems?
+diff between normalization and denormalization?
+difference between boxing and unboxing
+Diff between managed and unmanaged code
+abstract class vs an interface
+RESTful Services/principles
+Differencce between constant variable and readonly?
+diff declaration, provider and import in the NgModule?
+a TestBed in Angular mean?
+What are the essential components of Angular?
+difference between an Annotation and a Decorator in Angular
+How Angular application works?
+RouterOutlet and RouterLink?
+HTTPCLIENT in angular?
+What are Router Events?
+Component and a Directive in Angular?
+by Angular MVVM architecture(Model-View-ViewModel)?
+How to host a directive without a DOM element?
+@Injectable decorator?
+Diff between AngularJS and Angular?
+Observables and Promises in Angular?
+How to host a directive without a DOM element?
+What are the SOLID Principles?
+Describe the Single Responsibility Principle (SRP).
+Explain the Open Closed Principle (OCP).
+What is the Liskov Substitution Principle (LSP)?
+How would you design a system that adheres to SOLID principles and allows for easy experimentation and prototyping?
+Explain the Interface Segregation Principle (ISP) with an example.
+What is the Dependency Inversion Principle (DIP) in the context of C#?
+The acronym SOLID stands for
+What are the characteristics of an abstract class?
+What is constructor chaining?
+What are the four main principles of OOP?
+Explain the concept of inheritance in C# (oop).
+What is encapsulation and why is it important in OOP?
+What is abstraction and why is it important in OOP?
+What is Polymorphism and why is it important in OOP?
+the difference between the Stack and the Heap
+deferred execution vs. immediate execution in LINQ. Provide examples
+How do you implement a generic action in WebAPI?
+c# primitive datatypes v none primitive
+What is the difference between ViewBag, ViewData, and TempData in MVC?
+different types of routing in MVC?
+What is Partial class in C#?
+What is the ref keyword in C#?
+aggregate functions and scalar functions in SQL?
+What is the role of the Global.asax file in an ASP.NET application?
+What is the purpose of the App_Start folder in an ASP.NET MVC project?
+How does AJAX work in ASP.NET?
+HTTP status codes and their meanings?

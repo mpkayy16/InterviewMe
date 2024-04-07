@@ -1,0 +1,224 @@
+﻿Client first, we act with Energy and we take Ownership.
+I AM MENZI!!!.
+The opportunity to contribute to Capitec Bank Ltd excites me due to the organization's commitment to innovation and technology. I am drawn to the prospect of leveraging my skills to drive impactful solutions in a dynamic and forward-thinking environment.
+My experience in full-stack development encompasses taking ownership of projects, supporting live versions for production users, and collaborating with other developers to ensure a comprehensive understanding of the business domain. Additionally, I have worked on migration projects and have mentored junior developers, demonstrating my proficiency in both frontend and backend development
+To stay abreast of the latest trends and technologies in software development, I regularly engage in upskilling through courses on platforms like Pluralsight. Additionally, I actively participate in project designs, system explanations, and product-related meetings, which allows me to stay informed about industry advancements and best practices.
+One challenging project involved the upgrade of Input Forms, including migrating from AngularJS to the latest Angular version. To overcome this, I conducted thorough research, implemented integration tools, and collaborated with the team to ensure a seamless transition while maintaining the live version for production users.
+I handle tight deadlines and pressure at work by prioritizing tasks, effectively communicating with stakeholders, and leveraging my problem-solving and analytical skills to ensure efficient and timely delivery of projects.
+In a previous role, I encountered a conflict within the team regarding project priorities. I resolved it by facilitating open communication, understanding each team member's perspective, and collaboratively establishing a prioritization framework that aligned with the project's goals and timelines.
+Explain how i deal with informs
+When faced with the need to learn a new technology or language for a project, I approach it by engaging in comprehensive self-study, leveraging online resources, and seeking mentorship from experienced professionals. This proactive approach allows me to quickly grasp new concepts and apply them effectively in project development.
+I ensure the quality of my code by adhering to team standards and processes, conducting thorough testing, and actively participating in code reviews. Additionally, I continuously seek feedback from peers and mentors to refine and improve my coding practices.
+My experience with the C# programming language spans across various projects, including backend development for international payments and remittance applications. I have utilized C# to develop new functions, systems, and system changes based on business requirements, demonstrating proficiency in leveraging the language to meet diverse development needs.
+When approaching the design of a new software system from scratch, ~~I begin by conducting a comprehensive requirement analysis in collaboration with stakeholders.~~I plan the basic project approach and conduct a product feasibility study to ensure the economical, operational, and technical viability of the proposed system.~~This structured approach forms the foundation for the subsequent phases of the software development life cycle.
+The software development life cycle (SDLC) encompasses a systematic approach to software design, creation, and delivery based on customer requirements and needs. It involves a detailed plan that describes how to develop, maintain, and replace the software. The SDLC models and phases provide a framework for improving the quality of software and the overall development process, ensuring a disciplined and systematic method while designing software.
+My experience with front-end and back-end frameworks and technologies includes working with Angular, ASP.NET Entity Framework, .NET Core, ASP.NET MVC, HTML, and CSS. I have also engaged in upskilling through courses on platforms like Pluralsight to stay updated with the latest advancements in front-end and back-end development.
+To ensure the security of the applications I develop, I integrate security testing into the software development life cycle. This involves leveraging solutions that help manage security and quality risks comprehensively, across the organization and throughout the application life cycle. By incorporating security measures at each phase of the SDLC, I strive to build secure and resilient applications.
+My experience with database systems includes maintaining and optimizing databases to support business users.~~This involves performing data manipulation, writing scripts for generating various reports, and implementing query optimization techniques to enhance the performance and efficiency of database operations.
+When approaching RESTful API design and integration, I prioritize adherence to RESTful principles, including stateless communication and resource-based URLs. Additionally, I focus on designing APIs that are intuitive, well-documented, and efficiently integrated with the overall system architecture to ensure seamless communication and data exchange.
+I have experience working with cloud computing platforms and services such as Azure DevOps (VSTS), which involves leveraging cloud-based tools for project management, version control, and continuous integration and deployment. This experience has allowed me to effectively utilize cloud resources to support software development and delivery processes.
+Microservice architecture involves designing and developing modular, independently deployable services that work together to form a complete application.~~Event-driven architectures enable async communication and scalable, loosely coupled systems through the use of event-driven patterns and technologies.
+My experience with responsive design principles involves creating user interfaces that adapt seamlessly to various devices and screen sizes. Additionally, I have engaged in mobile-first development, prioritizing the design and development of applications for mobile devices before extending the functionality to larger screens, ensuring a user-centric approach to software development.
+To address browser compatibility issues and optimize performance, I prioritize the use of modern web development techniques and tools. This includes leveraging responsive design principles, optimizing images and assets, minimizing HTTP requests, and implementing caching and content delivery networks. Additionally, I focus on understanding algorithms and data structures to optimize code for improved performance, as well as staying updated with the latest front-end optimization tips and techniques.
+My experience with front-end build tools and package managers includes utilizing tools like Webpack for bundling and optimizing front-end assets. Additionally, I have worked with package managers such as npm to efficiently manage project dependencies and streamline the development workflow.
+Front-end developers are expected to have basic competency in algorithms and data structures. My understanding of advanced algorithms and data structures allows me to optimize code for improved performance, efficiently search and manipulate data structures, and create more responsive user interfaces. This knowledge is crucial for addressing complex front-end development challenges and ensuring efficient code execution.
+In my development process, I approach testing comprehensively by incorporating unit testing, integration testing, and end-to-end testing. This ensures that the functionality and performance of the software are thoroughly evaluated at different levels, allowing for the identification and resolution of potential issues early in the development cycle.
+Informs AG Grid
+I ensure attention to detail in my work by meticulously reviewing code, adhering to coding standards and best practices, and conducting thorough testing to identify and address any potential issues or inconsistencies. This approach allows me to deliver high-quality and reliable software solutions.
+In a collaborative project, my communication skills played a crucial role in facilitating effective collaboration, aligning team members' efforts, and ensuring a shared understanding of project requirements and goals. Clear and concise communication helped streamline the development process and foster a cohesive team environment.
+I approach interpersonal relationships within a team with empathy, active listening, and open communication. By fostering a supportive and inclusive team culture, I aim to build strong working relationships, encourage collaboration, and effectively resolve conflicts or challenges that may arise.
+During a critical project phase, I encountered a complex technical issue that required innovative problem-solving. By collaborating with team members, conducting thorough research, and exploring alternative approaches, I successfully resolved the issue, demonstrating adaptability and resilience in problem-solving.
+I approach feedback and criticism about my work with an open mindset, viewing it as an opportunity for growth and improvement. I actively seek constructive feedback, reflect on the input received, and use it to refine my skills and enhance the quality of my work.
+Explain how we adopted agile methodology
+I categorize tasks based on urgency and impact, leveraging project management tools to create a structured task list. Additionally, I communicate with stakeholders to align on priorities and ensure a clear understanding of project expectations
+In a previous role, I encountered a situation where a critical project faced unexpected resource constraints, requiring a difficult decision to be made regarding project scope and timeline. After thorough analysis and consultation with stakeholders, I made the decision to reprioritize project deliverables and adjust the project timeline to align with available resources. This decision, although challenging, allowed the team to focus on critical project aspects, maintain quality standards, and successfully deliver the project within the revised timeline.
+When faced with failure or setbacks in projects, I approach the situation with a proactive and solution-oriented mindset. I conduct a comprehensive analysis to identify the root cause of the issue, collaborate with the team to develop corrective measures, and implement necessary adjustments to mitigate the impact. Additionally, I view setbacks as learning opportunities, leveraging the experience to refine processes, improve decision-making, and enhance project outcomes in the future.
+If given a project with a very tight deadline, I would ensure its timely and successful completion by first conducting a thorough scope and resource assessment. Subsequently, I would streamline the project plan, allocate resources efficiently, and prioritize critical tasks. Additionally, I would foster open communication with stakeholders to manage expectations, identify potential risks, and proactively address any obstacles that may arise, ensuring a focused and collaborative effort to meet the project deadline.
+If a team member is not meeting deadlines or delivering quality work, I would approach the situation with empathy and open communication. I would initiate a one-on-one discussion to understand the underlying challenges, provide support, and collaboratively develop a plan to address the issues. Additionally, I would leverage team collaboration and mentorship to facilitate skill development and ensure that the team member receives the necessary support to meet project expectations.
+If asked to implement a feature that I believe would negatively impact the user experience, I would initiate a constructive dialogue with stakeholders to express my concerns and present alternative solutions
+In the event of a disagreement about a technical approach to a problem, I would approach the situation with open-mindedness and a focus on constructive dialogue. I would actively listen to the perspectives of team members, seek to understand the underlying rationale, and collaboratively evaluate the potential impact of each approach. By fostering a culture of open communication and mutual respect, I would aim to reach a consensus that aligns with the project's technical requirements and objectives
+I see myself contributing to Capitec Bank Ltd's commitment to service in the banking industry by leveraging my expertise in software development to create innovative and user-centric solutions that enhance customer experiences, streamline banking operations, and drive digital transformation. Additionally, I would actively engage in cross-functional collaboration, leveraging technology to support Capitec Bank Ltd's service-oriented approach and commitment to delivering exceptional banking services.
+I feel enthusiastic about working in a cross-functional team dedicated to the full software development lifecycle. This collaborative environment presents an opportunity to leverage diverse expertise, foster innovation, and ensure comprehensive alignment between development, testing, deployment, and ongoing support. By actively engaging in cross-functional collaboration, I aim to contribute to the seamless integration of technology solutions and the successful delivery of high-quality software products.
+I would contribute to creating great client experiences at Capitec Bank Ltd by leveraging my expertise in software development to design and implement intuitive, user-centric digital banking solutions. By focusing on transparency, simplicity, and accessibility, I would aim to empower clients to seamlessly manage their personal and business finances. Additionally, I would actively engage in understanding client needs, collaborating with cross-functional teams, and leveraging innovative technologies to deliver exceptional banking experiences that align with Capitec Bank Ltd's commitment to service excellence.
+I strongly support Capitec Bank Ltd's commitment to diversity and employment equity goals. Embracing diversity fosters an inclusive and respectful work environment, enabling the organization to leverage a wide range of perspectives, talents, and experiences. I believe that a diverse workforce drives innovation, enhances collaboration, and ultimately contributes to the overall success and sustainability of the organization.
+I fully understand and respect the importance of maintaining a clear criminal and credit record as required by Capitec Bank Ltd. I am committed to upholding the highest ethical and professional standards, and I would ensure compliance with all necessary background checks and record maintenance requirements to uphold the trust and integrity of the organization.
+I see myself fitting into Capitec Bank Ltd's corporate culture by embracing the organization's core values, fostering humility, informality, and an entrepreneurial spirit. I would actively contribute to a culture of inclusivity, respect, and collaboration, aligning with the organization's commitment to making banking simple, transparent, and accessible. Additionally, I would leverage my passion for service and innovation to support Capitec Bank Ltd's mission and contribute to its ongoing success.
+As a potential employee, I expect Capitec Bank Ltd to provide a supportive and inclusive work environment that fosters professional growth, learning opportunities, and meaningful contributions. I anticipate transparent communication, collaborative teamwork, and a commitment to recognizing and rewarding employee contributions. Additionally, I look forward to engaging in impactful projects, leveraging innovative technologies, and contributing to the organization's mission of delivering exceptional banking services.
+I envision significant career growth opportunities at Capitec Bank Ltd, driven by the organization's commitment to innovation, continuous improvement, and talent development. I anticipate the chance to expand my skills, take on challenging projects, and contribute to the organization's strategic initiatives, ultimately advancing my career trajectory and making meaningful contributions to the organization's success.
+I am committed to upholding the highest ethical standards and would handle potential conflicts of interest with transparency, integrity, and adherence to organizational policies and guidelines. I would proactively communicate any potential conflicts of interest, seek guidance from relevant stakeholders, and ensure that my actions align with the best interests of the organization and its stakeholders.
+I am interested in learning more about Capitec Bank Ltd's approach to fostering innovation in digital banking solutions and how the organization supports ongoing professional development and learning opportunities for its employees. Additionally, I would appreciate insights into the organization's strategic priorities and how the software development team contributes to achieving these objectives.
+The software development lifecycle (SDLC) is a structured process that outlines the stages and activities involved in designing, developing, testing, deploying, and maintaining software applications. It encompasses requirements gathering, system design, coding, testing, deployment, and ongoing maintenance. The SDLC is crucial as it provides a systematic approach to software development, ensuring that projects are delivered on time, within budget, and with high quality. It also facilitates effective collaboration, risk management, and alignment with business objectives.
+When encountering a bug in my code, I approach problem-solving by first conducting a thorough analysis to understand the root cause of the issue. I leverage debugging tools, logs, and testing environments to isolate the problem and develop a targeted solution. Additionally, I collaborate with team members to gain diverse perspectives and insights. By applying systematic problem-solving techniques and leveraging my analytical skills, I aim to efficiently identify and resolve the bug, ensuring the stability and reliability of the software.
+Objects can be reused in different programs, reducing development time. and easy maintanance => Encapsulation,Inheritance, Polymorphism,Abstraction
+To ensure code security, I follow best practices like input validation, authorization checks, secure coding standards, and threat modeling. I also integrate security testing into the development lifecycle through techniques like static analysis, dynamic analysis, and penetration testing. Secure coding practices are crucial to prevent vulnerabilities and protect sensitive data.
+My experience spans both front-end technologies like HTML, CSS, JavaScript, Angular and back-end technologies like C#, .NET Core, ASP.NET MVC, Entity Framework. I have worked on full-stack web applications, developing modular and reusable code on both the front-end and back-end according to best practices.
+RESTful API design and integration involve creating interfaces that adhere to the principles of the REST architectural style, enabling stateless and flexible communication between client and server applications.~~Client-server architecture: seperating client from server~~Statelessness: Ensure requests contain all needed info for processing and Server does not store any client specific data between requests~~Uniform Interface: guidelines of how client interacts with server
+When it is said that a RESTful API is stateless, it means that the server does not store any information about the client's state between requests
+I utilize Git for version control in my projects. This includes creating branches for new features or bug fixes, regularly committing changes, and leveraging pull requests for code review and collaboration.
+It allows for the building, running, and management of applications across multiple clouds, on-premises, and at the edge, with flexibility in choosing tools and frameworks
+This includes unit testing, integration testing, and end-to-end testing to ensure functionality, performance, and security
+N/a
+informs example
+When faced with unexpected changes or challenges in a project, I approach the situation with adaptability, proactive problem-solving, and effective communication. I collaborate with the team to assess the impact of the changes, adjust project plans as necessary, and ensure that the team remains aligned and focused on addressing the challenges effectively.
+If a client is not satisfied with my work, I would initiate an open and constructive dialogue to understand their concerns and expectations. I would actively listen to their feedback, propose solutions to address their concerns, and work collaboratively to ensure that their requirements are met. Building a strong client relationship and delivering exceptional service is a priority in such situations
+If I discovered a major bug just before a product launch, I would immediately communicate the issue to the relevant stakeholders, including the development team, project managers, and clients. I would work diligently to identify the root cause, develop a targeted solution, and collaborate with the team to implement a fix. 
+If I disagree with a decision made by a team leader, I would respectfully express my concerns and provide a well-reasoned rationale for my perspective. I would seek to engage in constructive dialogue, actively listen to the leader's perspective, and work towards finding a mutually beneficial solution.
+I believe that my skills and experience align with your company's mission and values, particularly in driving innovation, delivering exceptional client experiences, and embracing a culture of collaboration and continuous improvement. 
+I am confident in my ability to contribute to the team and projects by leveraging my expertise in software development, embracing a collaborative and solution-oriented approach, and actively engaging in the organization's strategic initiatives
+I envision significant growth opportunities within your company, driven by the organization's commitment to talent development, innovation, and fostering a culture of continuous learning
+My skills and experience make me a good fit for this role by aligning with the technical requirements, collaborative nature, and innovation-driven approach that the role demands
+-------brainstorm----------------------
+-------brainstorm----------------------
+One approach to managing state in an Angular application is through the use of services. By creating a service and injecting it into components, you can centralize the state logic and make it accessible across multiple components and external lib like ngrx
+try..catch
+LINQ integrates query capabilities directly into the C#
+memory is allocated using the new keyword or by calling constructors.~~When an object is no longer needed, the garbage collector automatically deallocates the memory occupied by the object or the dispose method
+Authentication: Use a centralized authentication service like Auth0 to handle the authentication process in your Angular application & for authorisationDefine roles or permissions for different types of users in your application.
+solid principles, oop , Utilize Angular Services and reusable components where posible
+explain unit testing testbed for angular and jasmine
+Lazy load, aot
+Virtual DOM is a programming concept that involves creating a virtual representation of the actual Document Object Model (DOM) for perfomance optimisation
+Inline elements do not start on a new line. They only take up as much width as necessary, and do not force a line break. Block elements start on a new line and take up the full width available. Inline-block elements are similar to inline elements in the sense that they do not start on a new line, but they can have a width and height set.
+SQL databases are relational databases that store data in tables with predefined schemas.NoSQL databases are non-relational databases that offer more flexibility in data storage. They can be document-based
+Pluralsight,tiktok
+Component-based Architecture,DI,2way binding,routing and forms
+TypeScript,css,html,sass,rxjs
+pipes are a feature in angular that transforms values. they can be used to format data before displaying it in the view .
+anular cli is an intergrated command interface to excecutes angular related commands
+gives a class more meaning
+TypeScript provides features such as static typing, interfaces, classes, and modules, which help in building robust and scalable applications.
+Routing in Angular refers to the process of navigating between different components based on the URL
+The constructor in Angular is a TypeScript feature used for class initialization and dependency injection. It is called when a class instance is created. On the other hand, ngOnInit is an Angular lifecycle hook that is called after the constructor 
+Component Directives special type of directive that has a template or template URLs, Structural Directives and Attribute directives are used to change the behavior or appearance of DOM elements
+Helps organise the application, It takes a metadata object that tells Angular how to compile and run module code.
+used to encapsulate logic that can be shared across different components or modules.
+1 way and 2 way
+Reactive forms use Observables for reactive programming and Template-driven forms in Angular rely on directives within the HTML template
+Angular forms are used to handle user input and data in web applications
+handling asynchronous operations and event handling within applications
+loading resources when needed
+using error handler or even custom error handlers
+Ahead-of-Time (AOT) compilation in Angular refers to the process of compiling the application's code during the build phase, as opposed to Just-in-Time (JIT) compilation, which occurs in the browser at runtime
+Angular supports server-side rendering (SSR) through its Angular Universal package, which allows the rendering of Angular applications on the server. SSR is an essential part of modern web applications and has been a top area for improvement based on community feedback.
+content projection allows the insertion of HTML content from outside a component and then inserting it into the component's template in a designated spot.
+lifecycle hooks are a set of methods that are executed at specific moments during the lifecycle of a component
+Excessive API Calls use paggination subset requests also Excessive DOM Manipulation
+Encapsulation, Inheritance, Polymorphism, Abstraction
+Value types are stored on the stack and copied by value. Reference types are stored on the heap and copied by reference.
+Garbage collection automatically manages memory allocation and deallocation, preventing memory leaks.
+Delegates define a function signature, and events encapsulate a notification mechanism for loosely coupled communication.
+Generics provide type safety, improved code reusability, and better performance.
+the "await" keyword is used in asynchronous programming to pause the execution of an asynchronous method until a task is complete.~~The "async" keyword indicates that a method is asynchronous, meaning that it can be run in the background without blocking the main thread of execution
+Use try-catch blocks to handle potential exceptions and maintain program flow.
+sealed prevents class inheritance, while readonly prevents modification of a variable after initialization.
+Extension methods add functionality to existing types without modifying the original type definition.
+DataAnnotations, Serializable
+Use frameworks like MSTest,NUnit or xUnit to write and run automated tests for your code.
+Dependency injection promotes loose coupling by injecting dependencies into a class instead of creating them directly.
+Web Forms offer a more visual development model, while MVC provides separation of concerns for better maintainability.
+Controllers handle user requests, interact with the model, and select appropriate views.
+MVC separates application logic (Model), presentation layer (View), and user interaction handling (Controller).
+Middleware components intercept HTTP requests and responses, allowing for functionalities like request logging or authentication.
+Common deployment options include IIS, Azure App Service, or self-hosting using Kestrel.
+Dependency injection promotes loose coupling, testability, and easier management of application dependencies.
+public, private, internal, protected
+Filters allow for centralized execution of code before or after specific actions in the request pipeline.
+Routing maps incoming URLs to appropriate controllers and actions for handling requests.
+you can use the Logging api provided by Microsoft .Extentions.Logging package
+Use logging providers like Serilog
+.NET Framework is a traditional Windows-focused framework, while .NET is open-source, cross-platform, and suitable for modern cloud and microservices development.
+CLR manages memory allocation, garbage collection, type safety, and code execution for .NET applications.
+Assemblies are the deployment units of .NET applications, containing compiled code, resources, and metadata.
+NuGet provides a package manager for easy discovery, installation, and management of third-party libraries.
+Attributes provide metadata about types and members, enabling functionalities like serialization or validation
+BCL provides a rich set of classes for common tasks like string manipulation, collections, networking, and file access.
+Similar to C#, reflection allows inspecting and manipulating types and their members at runtime
+ViewResult~~PartialViewResult~~ContentResult~~FileResult ~~ HttpStatusCodeResult
+fast,open source, used not only on windows
+The "using" statement in C# is used to ensure that a specific resource is cleaned up and released after its use
+Model binding is a process in ASP.NET MVC where incoming data, such as form values, query strings, or route data, is automatically mapped to parameters of controller action methods or properties of a custom model class
+Media formatters play a crucial role in Web APIs by determining how data is serialized and deserialized between the client and server
+Mock objects are used to simulate the behavior of real objects in order to isolate the code being tested
+Examples include Repository, Singleton,Abstract, Factory Method, Adapter, and many others promoting code reusability and maintainability.
+Singleton ensures a class has only one instance and provides a global access point to it.~~Singleton class have private constructor to prevent direct instantiation.~~The class has private static field to hold the instance~~the public method GetInstance() method is used to access the instance 
+Factory Method creates objects without exposing creation logic, allowing for central management and subclassing for different types.
+Repository pattern abstracts data access logic, promoting separation of concerns and easier switching between data sources.
+Adapter allows incompatible interfaces to work together by converting one interface to another
+Observer pattern defines a one-to-many dependency between objects, where subjects notify observers about changes.
+Strategy pattern allows dynamic selection of an algorithm or behavior at runtime, promoting flexibility.
+Decorator pattern dynamically adds new functionalities to an object without modifying its structure.
+Factory method creates a single product type, while abstract factory creates families of related products.
+Authentication and Auth, https,input validation, security headers, Logging and monitoring
+Utilize clear and descriptive naming conventions, implement versioning for API changes
+Token-based authentication is a process where the user sends their credentials to the server, the server validates the user details, and then generates a token which is sent as a response to the user. The user stores the token on the client side and uses it for further HTTP calls by adding it to the header. The server then validates the token and sends a response 
+Cross-Origin Resource Sharing (CORS) is a browser mechanism that enables controlled access to resources located outside of a given domain
+Understand the Library by reading documentation and access impact as i plan intergration strategy
+Stored Procedures, Input Validation and use Frameworks or using Object-Relational Mapping (ORM) tools that provide built-in protection against SQL injection
+Object-Relational Mapping (ORM) frameworks such as Entity Framework,ADO.NET, Stored Procedures and dapper
+Stored procedures are reusable and enable the encapsulation of specific business logic within the database itself. ~~ Stored procedures are commonly used for data validation and access control mechanisms.~~They execute SQL statements within the database itself
+Utilize Stored Procedures, Employ caching mechanisms, such as distributed caching with Redis
+Application Performance Management (APM) Tools, Monitoring and Alerting
+Is a way to retrieve data from diff sources and formats in a standard way
+is a framework which helps you to build/develop HTTP services
+It is how we set the values of parameters for the method in a controller [FromUri/FromBody]
+process of selecting format for a given response when there are multiple formats available using headers ie content type and accept
+Classes responsible for serializing the response data in the format that the client asked for.
+HTTP request maps to the controller using a routing table
+URI, Query String Parameter, Custom Header Parameter and Accept Header Parameter
+a technique to handle runtime error in the application code like HttpResponseException,	HttpError, Exception Filters etc.
+Content Negotiation, Routing, Model Bindings
+Void, HttpResponseMessage, IHttpActionResult
+cannot return an error code like 404
+Adv: makes it impossible to create global variables by mistake Disadv: A lot of features that most of the developers might be used to are absent
+It is executed when exceptions are unhandled and thrown from a controller method
+is about running multiple threads in parallel and improves perfomance
+refers to a standard set of properties that ensure database transactions are processed reliably
+Normalization is used to reduce data redundancy and inconsistently from the table.~~Denormalization is used to add redundancy to execute queries.
+Boxing is the process of converting a value type to the type object, and unboxing is extracting the value type from the object
+managed provides security to the code and runs on Common Language Runtime (CLR) while unmanaged code creates security threats.
+abstract allows you to create functionality that subclasses can implement or override. An interface allows you to define functionality, not implement it
+RESTful is an Architectural style for creating loosely couple applications over the HTTP. ~~ Client and Server Separation: client and server programs must be independent ~~ Stateless: each request must contain all the information needed to process it. ~~ Uniform Interface: same resource should look the same regardless of where they come from. ~~ Cacheable: Where possible, resources should be cacheable on the client or server side ~~ Code-On-Demand – perform the code when necessary. ~~ Layered System - separates the UI, logic, and data into three layers
+constant variable you only assign the value at declaration and with readonly you can either assign at declaration or in the constuctor
+Declarations - create directives for the current modules available. ~~ Providers - Provides services and values known to the dependency injection and must be added to the root scope. ~~ Import - Import is used to make declarations of other modules available in the current module.
+Is a primary API that is used to write unit tests for Angular Applications and Libraries
+Angular consists of a few core components that help you build applications: ~~ Components - provides a particular function or group of related functions ~~ Templates - Templates are a form of HTML tags used to declare how a component must be rendered. ~~ Modules – place where you can group components, pipes, services related to the application. ~~ Services - are instantiated once in a lifetime of an application and contains methods that are used to maintain the data ~~ Metadata - is used to add data to a class. This data helps Angular understand how a class needs to be processed.
+Annotation are used for creating an attribute annotation that stores array ~~ Decorators are methods/ functions that adds metadata to a class ~~ types of decorators~~ class decorators like @component, @ngmodule ~~ Property decorators like @input ~~ Method decorators like @Hostlistner ~~ Parameter decorator like @injectable0
+Every Angular app contains a file named angular.json. This file contains all the configurations of the app. While building the app, the builder looks at this file to find the application's entry point
+A RouterOutlet is a directive that acts as a placeholder in the template where the Router should display the components for that outlet. ~~ RouterLink is a directive on the anchor tags that enables routing
+help us fetch external data, post to it, etc
+The Router event allows you to track the entire lifecycle of the route. ~~ The sequence : NavigationStart => RouteConfigLoadStart => RouteConfigLoadEnd => RoutesRecognized => GuardsCheckStart => ChildActivationStart => ActivationStart => GuardsCheckEnd => ResolveStart => ResolveEnd => ActivationEnd => ChildActivationEnd => NavigationEnd => NavigationCancel => NavigationError => Scroll
+components are used to create UI widgets by breaking up the application into smaller parts, directives used for adding behaviour to an existing DOM element
+The MVVM architecture provides a facility to separate the development of the View from the development of the business logic or back-end logic (the Model). By using this architecture, the view is not dependent on any specific model platform.
+The Angular <ng-container> is a grouping element that doesn't interfere with styles or layout because Angular doesn't put it in the DOM.
+They indicate that a class can be injected
+Angular js is slower, doesn't provide any mobile support and No concept of Dependency Injection ~~ Angular is faster, provides mobile support and supports hierarchical Dependency Injection
+as soon as we make a promise, the execution takes place, but with observables nothing happens until a subscription is made(they are lazy)
+The Angular <ng-container> is a grouping element that doesn't interfere with styles or layout because Angular doesn't put it in the DOM.
+The SOLID Principles is an acronym for five principles in Object-Oriented Design (OOD) that aim to make software design more understandable, flexible, and maintainable
+In Object-Oriented Programming, the Single Responsibility Principle (SRP) ensures that every module or class should be responsible for a single functionality.
+The Open Closed Principle (OCP) states that software entities should be open for extension but closed for modification. This means that the behavior of a module can be extended without modifying its source code.
+The Liskov Substitution Principle (LSP) emphasizes that objects of a superclass should be replaceable with objects of a subclass without affecting the functionality of the program
+one approach is to use a modular and layered architecture with well-defined interfaces.~~Each module should have a clear responsibility and be decoupled from other modules, allowing for easy substitution and testing. Dependency injection can be used to facilitate the substitution of implementations
+The Interface Segregation Principle (ISP) states that a client should not be forced to implement an interface that it doesn't use. It encourages the creation of specific interfaces for specific client types, rather than having a single large interface that is implemented by all clients .
+The Dependency Inversion Principle (DIP) It emphasizes the importance of decoupling high-level modules from low-level modules by introducing abstractions.~~ It emphasizes that high-level and low-level classes should be loosely coupled as much as possible to avoid the risk of changes in one class breaking another 
+Single Responsibility Principle (SRP) ~~ Open Closed Principle (OCP) ~~ Liskov Substitution Principle (LSP) ~~ Interface Segregation Principle (ISP) ~~ Dependency Inversion Principle (DIP
+An abstract class can have abstract methods and non-abstract methods, and it cannot be instantiated. It can only be used as a base for other classes through inheritance.
+Constructor chaining refers to the process of calling one constructor from another constructor within the same class or from the base class constructor 
+The four main principles of OOP are inheritance, encapsulation, abstraction, and polymorphism.
+Inheritance in C# allows a class to inherit properties and methods from another class. It promotes code reusability and allows for the creation of a hierarchy of classes.
+process of hiding information within an object so that it cannot be accessed directly from outside the object(e.g., making methods or prop to be private)
+hides unwanted data and provides relevant data.
+Polymorphism allows a class to have multiple implementations with the same name
+Stack is responsible for keeping track of what is actually executing and where each executing thread is (each thread has its own Stack). The Heap, on the other hand, is responsible for keeping track of the data, or more precise objects
+deferred execution simply means that the query is not executed at the time it is specified whereas immediate forces the query to be excecuted when specified
+It’s not possible, as the WebAPI runtime needs to know the method signatures in advance.
+primitive datatypes are data types that represent single values, such as integers, floating-point numbers, characters, and boolean values ~~ Non-primitive datatypes, on the other hand, are more complex data structures that can hold multiple values of different types. Examples of non-primitive datatypes in C# include arrays, structures, classes, enums, and interfaces.
+ViewBag is a dynamic object to pass the data from Controller to View.~~ ViewData is a dictionary object to pass the data from Controller to View, where data is passed in the form of key-value pair ~~ TempData object will be stored in a session object and can be used from diff controllers
+A) Convention-based routing: To define this type of routing, we call  MapRoute the method and set its unique name, url pattern and specify some default values. ~~ B) Attribute-based routing: To define this type of routing, we specify the Route attribute in the controller's action method.
+A partial class splits the definition of a class over two or more source (.cs) files
+The ref keyword passes variables by reference to a method this allows method to modify the original value not its copy
+Aggregate used to do operations from the values of the column, and a single value is returned eg sum,min.~~ Scalar are built-in functions that operate on individual values and return a single value as output eg UCASE() and LCASE()
+The Global.asax file serves as the application-level event handler in an ASP.NET application.
+The App_Start folder in an ASP.NET MVC project is used to store various configuration classes that are automatically executed during application startup.
+AJAX (Asynchronous JavaScript and XML) allows for partial page updates without a full page reload, providing a smoother user experience.
+200 OK: The request was successful. ~~ 404 Not Found: The requested resource was not found. ~~ 500 Internal Server Error: An unexpected error occurred on the server. ~~ 401 Unauthorized: The request requires Authentication. ~~ 403 Forbidden: The server understood the request, but access is forbidden. ~~ 302 Found: The requested resource has been temporarily moved to a different URL.

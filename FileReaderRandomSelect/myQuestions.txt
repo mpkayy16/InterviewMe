@@ -1,0 +1,15 @@
+﻿My role in the Team: where does the team envision me fitting?
+Expectations: What are the company's expectations for this role in the first 3 months?
+About the Team: tell me more about the team I would be working with? Role in the company & Teams Structure
+About the Team: Whats the teams culture/custom for team build?
+Example Projects: Can you provide some examples of projects that I might be working on?
+Code Reviews and Testing: How does the company handle code reviews and testing?
+What is the teams definition of done on a feature?
+For managing tickets what is the team currently using vsts/jira...
+Can you describe a challenging problem you've encountered as a team like conflicts, prod issue?
+Technologies and Frameworks: What are the main technologies and frameworks used in the projects I would be working on?
+Balance in Software Solutions: How does the company ensure a balance between performance, reliability, and user experience in its software solutions?
+Professional Growth: How does the company support the professional growth and learning of its employees?
+Problem-Solving: What is the company's approach to problem-solving when a difficult bug or issue arises?
+What version of Angular and C# are currently being used in your projects?
+How do you handle version upgrades for Angular and C#?
